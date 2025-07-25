@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: productscontainer
-      image: suffixscope/products_api
+      image: shinilcu/products_api
       ports:
       - containerPort: 8080
 ---
